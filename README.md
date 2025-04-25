@@ -58,7 +58,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 ---
 
 ## 🌐 Acesso  
-Backend hospedado: [https://backend-catraca.vercel.app](https://backend-catraca.vercel.app)
+- Manoela Bavia Camargo Pereira - [Vercel](https://catraca-admin-sigma.vercel.app/)
 
 ---
 
